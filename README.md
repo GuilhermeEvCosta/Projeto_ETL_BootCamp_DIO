@@ -1,6 +1,6 @@
 # Projeto_ETL_BootCamp_DIO
 
-**Contexto:** Com base no saldo geral do cliente (Conta Corrente/Poupança), é instituido em qual campanha o mesmo se enquadra, e qual comunicação receberá, sendo elas:
+**Contexto:** Com base no saldo entre contas do cliente, é instituido em qual campanha o mesmo se enquadra, e qual comunicação receberá, sendo elas:
 
      Campanha MKT      |     Mensagem/Disparo
 1.   Consórcio é aqui! | Antecipe seu sonho com nosso consórcio!	
