@@ -2,6 +2,7 @@
 
 **Contexto:** Com base no saldo geral do cliente (Conta Corrente/Poupança), é instituido em qual campanha o mesmo se enquadra, e qual comunicação receberá, sendo elas:
 
+     Campanha MKT      | Mensagem/Disparo
 1.   Consórcio é aqui! | Antecipe seu sonho com nosso consórcio!	
 2.   Antecipa FGTS!	   | Está no sufoco? Antecipe seu FGTS conosco!
 3.   Invista Conosco!  | Invista conosco e faça seu dinheiro render mais!
