@@ -8,12 +8,16 @@
 3.   Invista Conosco!  | Invista conosco e faça seu dinheiro render mais!
 
 **Etapas:**
-Extrair:
+
+*Extrair:*
+
 1. Extrair base csv com os dados base para o exercicio.
 
-Transformar:
+*Transformar:*
+
 2. Identificar o grupo de acordo com saldo.
 3. Definir mensagem.
 
-Carregar:
+*Carregar:* 
+
 4. Uma vez que a mensagem para cada cliente esteja pronta, salvar as informações em formato csv, e disponibilizando o material enriquecido.
